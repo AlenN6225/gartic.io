@@ -1,0 +1,6 @@
+We would like to send special thanks to the people that voluntarily helped us to improve the game creating a better experience for the players.
+
+Rainmeo Chen - Helped us fixing Traditional Chinese (Taiwan) translation issues
+NoloTech - Dutch initial translation
+Petar Kinchev - Bulgarian initial translation
+Apiii - Indonesian initial translation
